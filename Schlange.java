@@ -1,12 +1,6 @@
-package com.mycompany.snake;
-
-/**
- *
- * @author igor
- */
 import java.awt.Point;
 
-public class Snake {
+public class Schlange {
     public static void main(String[] args) {
         //Objekte und Spielfeld erstellen
         Point spielerPosition = new Point(10, 9);
