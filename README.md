@@ -1,7 +1,5 @@
 # Erstes-Spiel-in-Java
 
-package com.mycompany.snake;
-
 import java.awt.Point;
 
 public class Snake {
